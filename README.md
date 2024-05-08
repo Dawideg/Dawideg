@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Already know: 
-![JavaScript](https://github.com/Dawideg/Dawideg/assets/87876704/8cc6df77-c988-40fb-805c-c2fbe7908b79)
+####![JavaScript](https://github.com/Dawideg/Dawideg/assets/87876704/8cc6df77-c988-40fb-805c-c2fbe7908b79)
 
 
 
