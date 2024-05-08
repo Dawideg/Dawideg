@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Already know: 
+Frontend: 
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+Backend: 
+### [![My Skills](https://skillicons.dev/icons?i=dotnet,cs.mysql,php,postgres)](https://skillicons.dev)
+
 
 
 
