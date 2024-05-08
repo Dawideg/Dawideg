@@ -19,6 +19,10 @@ Frontend:
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 Backend: 
 ### [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,php,postgres)](https://skillicons.dev)
+IDEs:
+### [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+Additional tools:
+### [![My Skills](https://skillicons.dev/icons?i=docker,bootstrap,tailwind,vite)](https://skillicons.dev)
 
 
 
