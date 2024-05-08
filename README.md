@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Already know: 
-![react](https://github.com/Dawideg/Dawideg/assets/87876704/b919b4af-4417-4831-beee-4881c2489f67)
+
 
 
