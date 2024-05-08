@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Frontend: 
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 Backend: 
-### [![My Skills](https://skillicons.dev/icons?i=dotnet,cs.mysql,php,postgres)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,php,postgres)](https://skillicons.dev)
 
 
 
