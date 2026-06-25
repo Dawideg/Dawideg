@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">A 17 year old polish programming student</h3>
+<h3 align="center">A 19 year old polish programming student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawideg&label=Profile%20views&color=0e75b6&style=flat" alt="dawideg" /> </p>
 
