@@ -16,6 +16,7 @@ Passionate about building scalable applications with ASP.NET Core and modern sof
 * 🌱 Currently learning cloud technologies and improving my ASP.NET Core skills
 * 🔨 Building full-stack applications with React and .NET
 * 📫 Reach me at: **[vavitturz@gmail.com](mailto:vavitturz@gmail.com)**
+* 🌐 <strong><a href="https://dawideg.github.io/">Portfolio</a></strong> 
 
 ---
 
